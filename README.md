@@ -2,7 +2,7 @@
 
 ## Use
 
-- Create `exception.js` in `plugins` directory // see [exception.js](./exception.js)
+- Create `exception.js` in `plugins` directory (see [exception.js](./exception.js))
 - Add `@/plugins/exception` into `plugins` array of `nuxt.config.js`
 - Use `app.$exception` function instead of `error` function in `asyncData`
 
